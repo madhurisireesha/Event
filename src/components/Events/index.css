@@ -1,0 +1,23 @@
+.eventcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+.first{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    width:40vw;
+    flex-wrap: wrap;
+}
+.second{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+    width:40vw;
+    flex-wrap: wrap;
+}
